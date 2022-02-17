@@ -1,4 +1,5 @@
 var ship
+var sea
 var seaImg
 var shipImg1
 
